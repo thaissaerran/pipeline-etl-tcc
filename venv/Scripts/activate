@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\thaissa.erran\Projeto TCC\venv"
+VIRTUAL_ENV="C:\Users\thaissa.erran\OneDrive - Minerva S.A\Área de Trabalho\Projeto TCC\pipeline-etl-tcc\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

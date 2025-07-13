@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\thaissa.erran\Projeto TCC\venv
+set VIRTUAL_ENV=C:\Users\thaissa.erran\OneDrive - Minerva S.A\Área de Trabalho\Projeto TCC\pipeline-etl-tcc\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
