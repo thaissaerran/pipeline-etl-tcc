@@ -1,0 +1,51 @@
+nome,email,idade,preco,data
+Carla Marisa,carla@corp-email.com,27,"33,92",2025-06-20
+Mariana Silva,mariana@company.com,24,26.75,2025/03/25
+Bruno Henrique,BRUNO@CORP-EMAIL.COM,36,36.63,2025/05/23
+Ana Beatriz,ana@corp-email.com,20,28.46,2025/02/22
+Thaissa Fernanda,THAISSA@CORP-EMAIL.COM,32,31.86,2025/02/28
+João Pedro,JOÃO@CORP-EMAIL.COM,34,19.48,2025/04/15
+Bruno Henrique,BRUNO@COMPANY.COM,39,"28,34",2024-09-28
+Eduardo Gonçalves,eduardo@minervafoods.com,37,"49,81",2025-04-29
+Carla Marisa,CARLA@MINERVAFOODS.COM,36,37.93,2025/01/03
+Thaissa Fernanda,thaissa@corp-email.com,28,"31,47",2025-03-13
+Bruno Henrique,BRUNO@COMPANY.COM,38,17.48,2024/10/09
+Bruno Henrique,bruno@corp-email.com,40,44.74,2024-08-30
+Mariana Silva,MARIANA@COMPANY.COM,23,25.38,2025-04-03
+Thaissa Fernanda,thaissa@minervafoods.com,23,"42,98",2024/08/10
+Thaissa Fernanda,thaissa@company.com,40,49.21,2025-06-29
+Lívia Camila,LÍVIA@MINERVAFOODS.COM,32,38.61,2025-01-26
+Mariana Silva,mariana@corp-email.com,29,45.92,2024/12/07
+Ana Beatriz,ana@corp-email.com,35,"34,40",2024-07-20
+Lívia Camila,lívia@minervafoods.com,21,38.99,2025/03/24
+Ana Beatriz,ana@company.com,24,46.84,2025-06-27
+Lívia Camila,LÍVIA@COMPANY.COM,26,24.91,2024-07-26
+Matheus,matheus@corp-email.com,33,15.67,2024/11/28
+Carla Marisa,carla@company.com,29,21.79,2024/08/01
+Bruno Henrique,bruno@minervafoods.com,27,29.61,2024-12-28
+Mariana Silva,mariana@company.com,23,43.95,2024-09-27
+Diego Armando,diego@corp-email.com,38,21.88,2024/10/16
+Mariana Silva,mariana@corp-email.com,28,45.56,2024-11-29
+Mariana Silva,MARIANA@CORP-EMAIL.COM,22,"46,01",2025/07/09
+Mariana Silva,mariana@company.com,35,49.40,2025/07/12
+Matheus,matheus@minervafoods.com,21,"41,00",2025-06-15
+LÍVIACAMILA,líviacamila@minervafoods.com,37,"36,99",2024-11-22
+anabeatriz,anabeatriz@minervafoods.com,32,43.33,2025-07-15
+joãopedro,joãopedro@corp-email.com,28,"41,07",2024-12-21
+ANABEATRIZ,ANABEATRIZ@COMPANY.COM,28,"27,70",2025/01/22
+BRUNOHENRIQUE,BRUNOHENRIQUE@MINERVAFOODS.COM,35,15.33,2025-05-30
+matheus,MATHEUS@COMPANY.COM,30,39.79,2024/10/26
+anabeatriz,anabeatriz@company.com,30,"15,25",2025-05-17
+JOÃOPEDRO,joãopedro@corp-email.com,29,28.35,2024-11-11
+marianasilva,marianasilva@corp-email.com,22,34.89,2024-08-12
+diegoarmando,DIEGOARMANDO@COMPANY.COM,20,"41,32",2024/10/08
+thaissafernanda,thaissafernanda@corp-email.com,39,23.65,2025/04/01
+LÍVIACAMILA,líviacamila@company.com,20,"35,27",2024-07-29
+ANABEATRIZ,anabeatriz@corp-email.com,28,23.77,2024/11/18
+THAISSAFERNANDA,thaissafernanda@minervafoods.com,32,23.66,2024/10/25
+THAISSAFERNANDA,thaissafernanda@minervafoods.com,27,"36,73",2024/10/05
+EDUARDOGONÇALVES,eduardogonçalves@company.com,37,"37,95",2025/01/27
+BRUNOHENRIQUE,brunohenrique@corp-email.com,35,42.04,2025-04-13
+matheus,matheus@company.com,30,40.98,2024/08/13
+THAISSAFERNANDA,THAISSAFERNANDA@MINERVAFOODS.COM,23,49.16,2025-06-08
+ANABEATRIZ,ANABEATRIZ@CORP-EMAIL.COM,38,26.98,2024-07-24
